@@ -18,5 +18,4 @@ Why is this abandoned?
 - Too many layers, (cost driver)
 - Not compact enough.
 - Bad component/connector placement.
-
-...
+- I used blind vias.
